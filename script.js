@@ -6,7 +6,9 @@
         //     alert("salam")
         // }
         
-        document.getElementById("pm").innerHTML= 10+5;
+        // document.getElementById("pm").innerHTML= 10+5;
 
-        var name = 'salam khobi?'
-        alert("my pm :"+name)
+        // var name = 'salam khobi?'
+        // alert("my pm :"+name)
+
+        
