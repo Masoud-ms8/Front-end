@@ -11,11 +11,11 @@
         // var name = 'salam khobi?'
         // alert("my pm :"+name)
 
-        var age = prompt("enter your age:")
-        age = Number(age)
+        // var age = prompt("enter your age:")
+        // age = Number(age)
 
-        if(age > 40){
-            alert("oh oh dari pir mishiaaa")
-        }else{
-            alert("hanoz javoni jojo")
-        }
+        // if(age > 40){
+        //     alert("oh oh dari pir mishiaaa")
+        // }else{
+        //     alert("hanoz javoni jojo")
+        // }
