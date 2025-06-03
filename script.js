@@ -12,9 +12,9 @@
         // alert("my pm :"+name)
 
         var age = prompt("enter your age:")
-        y_age = Number(age)
+        age = Number(age)
 
-        if(y_age > 40){
+        if(age > 40){
             alert("oh oh dari pir mishiaaa")
         }else{
             alert("hanoz javoni jojo")
