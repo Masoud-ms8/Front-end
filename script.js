@@ -7,3 +7,6 @@
         // }
         
         document.getElementById("pm").innerHTML= 10+5;
+
+        var name = 'salam khobi?'
+        alert("my pm :"+name)
