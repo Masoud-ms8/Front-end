@@ -16,4 +16,6 @@
 
         if(y_age > 40){
             alert("oh oh dari pir mishiaaa")
+        }else{
+            alert("hanoz javoni jojo")
         }
