@@ -11,4 +11,9 @@
         // var name = 'salam khobi?'
         // alert("my pm :"+name)
 
-        
+        var age = prompt("enter your age:")
+        y_age = Number(age)
+
+        if(y_age > 40){
+            alert("oh oh dari pir mishiaaa")
+        }
