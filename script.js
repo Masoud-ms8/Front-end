@@ -6,4 +6,4 @@
         //     alert("salam")
         // }
         
-        document.getElementById("pm").innerHTML="hello";
+        document.getElementById("pm").innerHTML= 10+5;
